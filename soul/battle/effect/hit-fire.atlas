@@ -1,0 +1,160 @@
+
+hit-fire.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+circle
+  rotate: false
+  xy: 1, 40
+  size: 147, 147
+  orig: 147, 147
+  offset: 0, 0
+  index: -1
+fire-burst0001
+  rotate: false
+  xy: 149, 98
+  size: 94, 89
+  orig: 94, 89
+  offset: 0, 0
+  index: -1
+fire-burst0002
+  rotate: false
+  xy: 244, 98
+  size: 94, 89
+  orig: 94, 89
+  offset: 0, 0
+  index: -1
+fire-burst0003
+  rotate: false
+  xy: 339, 166
+  size: 94, 89
+  orig: 94, 89
+  offset: 0, 0
+  index: -1
+fire-burst0004
+  rotate: false
+  xy: 434, 166
+  size: 94, 89
+  orig: 94, 89
+  offset: 0, 0
+  index: -1
+fire-burst0005
+  rotate: false
+  xy: 529, 166
+  size: 94, 89
+  orig: 94, 89
+  offset: 0, 0
+  index: -1
+fire-burst0006
+  rotate: false
+  xy: 624, 166
+  size: 94, 89
+  orig: 94, 89
+  offset: 0, 0
+  index: -1
+fire-burst0007
+  rotate: false
+  xy: 719, 166
+  size: 94, 89
+  orig: 94, 89
+  offset: 0, 0
+  index: -1
+fire-burst0008
+  rotate: false
+  xy: 814, 166
+  size: 94, 89
+  orig: 94, 89
+  offset: 0, 0
+  index: -1
+fire-out0001
+  rotate: false
+  xy: 473, 77
+  size: 86, 88
+  orig: 86, 88
+  offset: 0, 0
+  index: -1
+fire-out0002
+  rotate: false
+  xy: 560, 77
+  size: 86, 88
+  orig: 86, 88
+  offset: 0, 0
+  index: -1
+fire-out0003
+  rotate: false
+  xy: 647, 77
+  size: 86, 88
+  orig: 86, 88
+  offset: 0, 0
+  index: -1
+fire-out0004
+  rotate: false
+  xy: 734, 77
+  size: 86, 88
+  orig: 86, 88
+  offset: 0, 0
+  index: -1
+fire-out0005
+  rotate: false
+  xy: 821, 77
+  size: 86, 88
+  orig: 86, 88
+  offset: 0, 0
+  index: -1
+fire-out0006
+  rotate: true
+  xy: 909, 88
+  size: 86, 88
+  orig: 86, 88
+  offset: 0, 0
+  index: -1
+fire-out0007
+  rotate: true
+  xy: 908, 1
+  size: 86, 88
+  orig: 86, 88
+  offset: 0, 0
+  index: -1
+hit-fire-smk0001
+  rotate: false
+  xy: 149, 1
+  size: 80, 96
+  orig: 80, 96
+  offset: 0, 0
+  index: -1
+hit-fire-smk0002
+  rotate: false
+  xy: 230, 1
+  size: 80, 96
+  orig: 80, 96
+  offset: 0, 0
+  index: -1
+hit-fire-smk0003
+  rotate: false
+  xy: 311, 1
+  size: 80, 96
+  orig: 80, 96
+  offset: 0, 0
+  index: -1
+hit-fire-smk0004
+  rotate: true
+  xy: 909, 175
+  size: 80, 96
+  orig: 80, 96
+  offset: 0, 0
+  index: -1
+hit-fire-smk0005
+  rotate: false
+  xy: 392, 69
+  size: 80, 96
+  orig: 80, 96
+  offset: 0, 0
+  index: -1
+piece01
+  rotate: false
+  xy: 1, 188
+  size: 262, 67
+  orig: 262, 67
+  offset: 0, 0
+  index: -1

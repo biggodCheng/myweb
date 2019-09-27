@@ -1,0 +1,32 @@
+{
+  "1": {
+    "id": "1",
+    "name": "火",
+    "restraint_id": 2
+  },
+  "2": {
+    "id": "2",
+    "name": "水",
+    "restraint_id": 3
+  },
+  "3": {
+    "id": "3",
+    "name": "草",
+    "restraint_id": 4
+  },
+  "4": {
+    "id": "4",
+    "name": "土",
+    "restraint_id": 1
+  },
+  "5": {
+    "id": "5",
+    "name": "光",
+    "restraint_id": 6
+  },
+  "6": {
+    "id": "6",
+    "name": "暗",
+    "restraint_id": 5
+  }
+}

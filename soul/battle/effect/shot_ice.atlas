@@ -1,0 +1,41 @@
+
+shot_ice.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bolt01
+  rotate: false
+  xy: 157, 1
+  size: 190, 106
+  orig: 190, 106
+  offset: 0, 0
+  index: -1
+bolt02
+  rotate: false
+  xy: 157, 108
+  size: 192, 106
+  orig: 192, 106
+  offset: 0, 0
+  index: -1
+bolt03
+  rotate: true
+  xy: 350, 28
+  size: 186, 106
+  orig: 186, 106
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 1, 24
+  size: 155, 190
+  orig: 155, 190
+  offset: 0, 0
+  index: -1
+particle01
+  rotate: false
+  xy: 1, 13
+  size: 31, 10
+  orig: 31, 10
+  offset: 0, 0
+  index: -1

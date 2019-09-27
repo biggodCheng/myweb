@@ -1,0 +1,106 @@
+{
+  "10001": {
+    "id": "10001",
+    "map_img": "map/map_10001.jpg",
+    "name": "关卡1-1",
+    "last_level": 10001,
+    "monster_img": 10001,
+    "power": 1000,
+    "drop_id": 10001,
+    "enemy": {
+      "1": 10001,
+      "3": 10001
+    }
+  },
+  "10002": {
+    "id": "10002",
+    "map_img": "map/map_10002.jpg",
+    "name": "关卡1-2",
+    "last_level": 20001,
+    "monster_img": 10002,
+    "power": 1200,
+    "drop_id": 10002,
+    "enemy": {
+      "1": 10001,
+      "3": 10001
+    }
+  },
+  "10003": {
+    "id": "10003",
+    "map_img": "map/map_10001.jpg",
+    "name": "关卡1-3",
+    "last_level": 10001,
+    "monster_img": 10003,
+    "power": 1400,
+    "drop_id": 10001,
+    "enemy": {
+      "1": 10001,
+      "3": 10001
+    }
+  },
+  "10004": {
+    "id": "10004",
+    "map_img": "map/map_10002.jpg",
+    "name": "关卡1-4",
+    "last_level": 20001,
+    "monster_img": 10004,
+    "power": 1600,
+    "drop_id": 10002,
+    "enemy": {
+      "1": 10001,
+      "3": 10001
+    }
+  },
+  "20001": {
+    "id": "20001",
+    "map_img": "map/map_10001.jpg",
+    "name": "关卡2-1",
+    "last_level": 20001,
+    "monster_img": 10005,
+    "power": 1800,
+    "drop_id": 10001,
+    "enemy": {
+      "1": 10001,
+      "3": 10001
+    }
+  },
+  "20002": {
+    "id": "20002",
+    "map_img": "map/map_10002.jpg",
+    "name": "关卡2-2",
+    "last_level": 20001,
+    "monster_img": 10006,
+    "power": 2000,
+    "drop_id": 10002,
+    "enemy": {
+      "1": 10001,
+      "3": 10001
+    }
+  },
+  "20003": {
+    "id": "20003",
+    "map_img": "map/map_10001.jpg",
+    "name": "关卡2-3",
+    "last_level": 20001,
+    "monster_img": 10007,
+    "power": 2200,
+    "drop_id": 10001,
+    "enemy": {
+      "1": 10001,
+      "3": 10001
+    }
+  },
+  "20004": {
+    "id": "20004",
+    "map_img": "map/map_10002.jpg",
+    "name": "关卡2-4",
+    "last_level": 20001,
+    "monster_img": 10008,
+    "power": 2400,
+    "drop_id": 10002,
+    "enemy": {
+      "1": 10001,
+      "3": 10001
+    }
+  }
+}

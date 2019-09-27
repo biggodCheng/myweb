@@ -1,0 +1,69 @@
+
+frost_attack.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flash01
+  rotate: false
+  xy: 1, 68
+  size: 219, 219
+  orig: 219, 219
+  offset: 0, 0
+  index: -1
+flash02
+  rotate: false
+  xy: 1, 288
+  size: 221, 221
+  orig: 221, 221
+  offset: 0, 0
+  index: -1
+flash03
+  rotate: false
+  xy: 223, 290
+  size: 219, 219
+  orig: 219, 219
+  offset: 0, 0
+  index: -1
+flash04
+  rotate: false
+  xy: 443, 290
+  size: 219, 219
+  orig: 219, 219
+  offset: 0, 0
+  index: -1
+ice-debuff
+  rotate: false
+  xy: 663, 309
+  size: 160, 200
+  orig: 160, 200
+  offset: 0, 0
+  index: -1
+ice-debuff-glow
+  rotate: false
+  xy: 824, 309
+  size: 160, 200
+  orig: 160, 200
+  offset: 0, 0
+  index: -1
+particle-ice
+  rotate: true
+  xy: 663, 167
+  size: 141, 162
+  orig: 141, 162
+  offset: 0, 0
+  index: -1
+smk-white
+  rotate: false
+  xy: 1, 1
+  size: 85, 66
+  orig: 85, 66
+  offset: 0, 0
+  index: -1
+smk-white2
+  rotate: false
+  xy: 826, 247
+  size: 76, 61
+  orig: 76, 61
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+heal.png
+size: 512,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+crosslight
+  rotate: false
+  xy: 257, 1
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+eff01
+  rotate: true
+  xy: 1, 18
+  size: 13, 144
+  orig: 13, 144
+  offset: 0, 0
+  index: -1
+lightstar
+  rotate: true
+  xy: 146, 7
+  size: 24, 110
+  orig: 24, 110
+  offset: 0, 0
+  index: -1

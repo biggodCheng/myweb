@@ -1,0 +1,38 @@
+[
+  {
+    "time": 0,
+    "costSoul": 0,
+    "costGold": 0,
+    "level_max": 30
+  },
+  {
+    "time": 1,
+    "costSoul": 50,
+    "costGold": 10000,
+    "level_max": 40
+  },
+  {
+    "time": 2,
+    "costSoul": 100,
+    "costGold": 20000,
+    "level_max": 50
+  },
+  {
+    "time": 3,
+    "costSoul": 200,
+    "costGold": 50000,
+    "level_max": 60
+  },
+  {
+    "time": 4,
+    "costSoul": 400,
+    "costGold": 100000,
+    "level_max": 80
+  },
+  {
+    "time": 5,
+    "costSoul": 1000,
+    "costGold": 500000,
+    "level_max": 100
+  }
+]

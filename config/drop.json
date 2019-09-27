@@ -1,0 +1,162 @@
+{
+  "1000101": {
+    "id": "1000101",
+    "drop_id": 10001,
+    "drop_type": 1,
+    "level_min": 0,
+    "level_max": 100,
+    "weight": null,
+    "prop_id": 10001,
+    "prop_num": 100
+  },
+  "1000102": {
+    "id": "1000102",
+    "drop_id": 10001,
+    "drop_type": 1,
+    "level_min": 0,
+    "level_max": 100,
+    "weight": null,
+    "prop_id": 10002,
+    "prop_num": 100
+  },
+  "1000103": {
+    "id": "1000103",
+    "drop_id": 10001,
+    "drop_type": 2,
+    "level_min": 0,
+    "level_max": 100,
+    "weight": 100,
+    "prop_id": 10001,
+    "prop_num": 10
+  },
+  "1000104": {
+    "id": "1000104",
+    "drop_id": 10001,
+    "drop_type": 2,
+    "level_min": 0,
+    "level_max": 100,
+    "weight": 400000,
+    "prop_id": 10002,
+    "prop_num": 12
+  },
+  "1000105": {
+    "id": "1000105",
+    "drop_id": 10001,
+    "drop_type": 2,
+    "level_min": 0,
+    "level_max": 100,
+    "weight": 1000000,
+    "prop_id": 10001,
+    "prop_num": 130
+  },
+  "1000106": {
+    "id": "1000106",
+    "drop_id": 10001,
+    "drop_type": 3,
+    "level_min": 0,
+    "level_max": 100,
+    "weight": 100,
+    "prop_id": 10011,
+    "prop_num": 120
+  },
+  "1000107": {
+    "id": "1000107",
+    "drop_id": 10001,
+    "drop_type": 3,
+    "level_min": 0,
+    "level_max": 100,
+    "weight": 100,
+    "prop_id": 10001,
+    "prop_num": 110
+  },
+  "1000108": {
+    "id": "1000108",
+    "drop_id": 10001,
+    "drop_type": 3,
+    "level_min": 0,
+    "level_max": 100,
+    "weight": 200,
+    "prop_id": 10002,
+    "prop_num": 100
+  },
+  "1000201": {
+    "id": "1000201",
+    "drop_id": 10002,
+    "drop_type": 1,
+    "level_min": 0,
+    "level_max": 100,
+    "weight": null,
+    "prop_id": 10001,
+    "prop_num": 100
+  },
+  "1000202": {
+    "id": "1000202",
+    "drop_id": 10002,
+    "drop_type": 1,
+    "level_min": 0,
+    "level_max": 100,
+    "weight": null,
+    "prop_id": 10002,
+    "prop_num": 100
+  },
+  "1000203": {
+    "id": "1000203",
+    "drop_id": 10002,
+    "drop_type": 2,
+    "level_min": 0,
+    "level_max": 100,
+    "weight": 100,
+    "prop_id": 10001,
+    "prop_num": 10
+  },
+  "1000204": {
+    "id": "1000204",
+    "drop_id": 10002,
+    "drop_type": 2,
+    "level_min": 0,
+    "level_max": 100,
+    "weight": 400000,
+    "prop_id": 10002,
+    "prop_num": 12
+  },
+  "1000205": {
+    "id": "1000205",
+    "drop_id": 10002,
+    "drop_type": 2,
+    "level_min": 0,
+    "level_max": 100,
+    "weight": 1000000,
+    "prop_id": 10001,
+    "prop_num": 130
+  },
+  "1000206": {
+    "id": "1000206",
+    "drop_id": 10002,
+    "drop_type": 3,
+    "level_min": 0,
+    "level_max": 100,
+    "weight": 100,
+    "prop_id": 10011,
+    "prop_num": 120
+  },
+  "1000207": {
+    "id": "1000207",
+    "drop_id": 10002,
+    "drop_type": 3,
+    "level_min": 0,
+    "level_max": 100,
+    "weight": 100,
+    "prop_id": 10001,
+    "prop_num": 110
+  },
+  "1000208": {
+    "id": "1000208",
+    "drop_id": 10002,
+    "drop_type": 3,
+    "level_min": 0,
+    "level_max": 100,
+    "weight": 200,
+    "prop_id": 10002,
+    "prop_num": 100
+  }
+}

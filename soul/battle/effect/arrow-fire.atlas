@@ -1,0 +1,27 @@
+
+arrow-fire.png
+size: 128,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arrow-small
+  rotate: true
+  xy: 1, 8
+  size: 19, 114
+  orig: 19, 114
+  offset: 0, 0
+  index: -1
+arrow-small-fire
+  rotate: false
+  xy: 116, 9
+  size: 6, 18
+  orig: 6, 18
+  offset: 0, 0
+  index: -1
+arrow-small-tail
+  rotate: true
+  xy: 1, 1
+  size: 6, 39
+  orig: 6, 39
+  offset: 0, 0
+  index: -1

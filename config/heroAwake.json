@@ -1,0 +1,30 @@
+{
+  "10001": {
+    "id": "10001",
+    "hero_id": 10001,
+    "awake_attribute": "100,10,10,10",
+    "level_max": 120,
+    "stone_cost": null,
+    "hero_cost1": "{消耗类型,消耗参数1,消耗参数2}",
+    "hero_cost2": null,
+    "hero_cost3": null,
+    "hero_cost4": null,
+    "old_skill_id": 200,
+    "new_skill_id": 500,
+    "awake_hero_id": 20001
+  },
+  "10005": {
+    "id": "10005",
+    "hero_id": 10002,
+    "awake_attribute": "100,10,10,10",
+    "level_max": 120,
+    "stone_cost": null,
+    "hero_cost1": null,
+    "hero_cost2": null,
+    "hero_cost3": null,
+    "hero_cost4": null,
+    "old_skill_id": 321,
+    "new_skill_id": 425,
+    "awake_hero_id": 20002
+  }
+}
